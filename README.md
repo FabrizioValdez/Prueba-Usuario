@@ -49,7 +49,7 @@ Modificar `appSettings` en `Web.config`:
 ### 4. Ejecutar
 
 1. Abrir solución en Visual Studio 2022
-2. `F5` para ejecutar
+2. `F5` para ejecutar, si sale error entrar a https://localhost:44357/proyecto/Inicio
 3. Se abre `Default.aspx` → redirige automáticamente a `Inicio.aspx`
 4. El **Seeder** crea automáticamente el usuario admin si la BD está vacía
 
